@@ -1,6 +1,6 @@
 ## Welcome to my Github Profile👋👋
 
-I am an EE undergrad who passionate about RF, mm-Wave, and THz technologies. Currently, I'm working on RFIC Design and I plan to do advaned study in this field to further deepen my knowledges.
+I am an EE undergrad who passionate about RF, mm-Wave, and THz technologies. Currently, I'm working on RFIC Design and I plan to do advanced study in this field to further deepen my knowledges.
 
 ## 🌐 Socials:
 
