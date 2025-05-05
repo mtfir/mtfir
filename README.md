@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/TjAcxImn74uoDYVxFl/giphy.gif"/>
+![Rika](https://media3.giphy.com/media/a6pzK009rlCak/giphy.gif)
 
 # Welcome to my Github Profile👋👋
 
