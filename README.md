@@ -1,4 +1,4 @@
-![Messi](https://media.giphy.com/media/TjAcxImn74uoDYVxFl/giphy.gif)
+![Messi](https://imgur.com/a/XZwcnZj)
 
 # Welcome to my Github Profile👋👋
 
