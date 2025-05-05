@@ -1,6 +1,6 @@
-## Welcome to my Github Profile👋👋
+# Welcome to my Github Profile👋👋
 
-I am an EE undergrad who passionate about RF, mm-Wave, and THz technologies. Currently, I'm working on RFIC Design and I plan to do advanced study in this field to further deepen my knowledges.
+I am an EE undergrad who passionate about RF, mm-Wave, and THz technologies. Currently, I'm working on RFIC Design and I plan to do advaned study in this field to further deepen my knowledges.
 
 ## 🌐 Socials:
 
@@ -8,4 +8,4 @@ I am an EE undergrad who passionate about RF, mm-Wave, and THz technologies. Cur
 
 ## 🛠️ Tech Stack:
 
-![CST Microwave Studio](https://img.shields.io/badge/CST_Microwave_Studio-blue) ![QUCS-S](https://img.shields.io/badge/QUCS--S-orange) ![Xschem](https://img.shields.io/badge/Xschem-black) ![Magic VLSI](https://img.shields.io/badge/Magic_VLSI-pink) ![KLayout](https://img.shields.io/badge/KLayout-yellow) ![Skywater SKY130](https://img.shields.io/badge/Skywater_SKY130-grey) ![IHP SG13G2](https://img.shields.io/badge/IHP_SG13G2-red)
+[![CST Microwave Studio](https://img.shields.io/badge/CST_Microwave_Studio-blue)](https://www.3ds.com/products/simulia/cst-studio-suite) [![QUCS-S](https://img.shields.io/badge/QUCS--S-orange)](https://ra3xdh.github.io/) [![Xschem](https://img.shields.io/badge/Xschem-black)](https://xschem.sourceforge.io/stefan/index.html) [![Magic VLSI](https://img.shields.io/badge/Magic_VLSI-pink)](http://opencircuitdesign.com/magic/) [![KLayout](https://img.shields.io/badge/KLayout-yellow)](https://www.klayout.de/) [![Skywater SKY130](https://img.shields.io/badge/Skywater_SKY130-grey)](https://skywater-pdk.readthedocs.io/en/main/) [![IHP SG13G2](https://img.shields.io/badge/IHP_SG13G2-red)](https://ihp-open-pdk-docs.readthedocs.io/en/latest/)
