@@ -2,17 +2,50 @@
   <img src="https://media3.giphy.com/media/a6pzK009rlCak/giphy.gif">
 </div>
 
-# Welcome to my Github Profile👋👋
+<h1 align="center">Hi, I'm Tegar 👋</h1>
 
-I am an EE undergrad who passionate about RF, mm-Wave, and THz technologies. Currently, I'm working on RFIC Design and I plan to do advaned study in this field to further deepen my knowledges.
+<p align="center">
+  <em>🔧 Analog/RF IC Designer • 💡 Open-Source Silicon Enthusiast</em>
+</p>
 
-## 🌐 Socials:
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mtfirmansyah_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muchammadtegarfirmansyah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mtfirmansyah15@gmail.com)
+### 👨‍💻 About Me
 
-## 🛠️ Tech Stack:
+- 🎓 Undergraduate student in Electrical Engineering with concentration in **RF and Telecommunications**
+- 🧠 Currently exploring:
+  - 📡 RF, Microwave and mm-Wave Circuits  
+  - 🔓 Open-Source Analog/RF IC Design Flow
 
-[![CST Microwave Studio](https://img.shields.io/badge/CST_Microwave_Studio-blue)](https://www.3ds.com/products/simulia/cst-studio-suite) [![QUCS-S](https://img.shields.io/badge/QUCS--S-orange)](https://ra3xdh.github.io/) [![Xschem](https://img.shields.io/badge/Xschem-black)](https://xschem.sourceforge.io/stefan/index.html) [![Magic VLSI](https://img.shields.io/badge/Magic_VLSI-pink)](http://opencircuitdesign.com/magic/) [![KLayout](https://img.shields.io/badge/KLayout-yellow)](https://www.klayout.de/) [![Skywater SKY130](https://img.shields.io/badge/Skywater_SKY130-grey)](https://skywater-pdk.readthedocs.io/en/main/) [![IHP SG13G2](https://img.shields.io/badge/IHP_SG13G2-red)](https://ihp-open-pdk-docs.readthedocs.io/en/latest/)
+---
+
+### 🔬 Tech Stack & Tools  
+Here are some IC design tools that I use:
+
+| 🧭 Domain | 🛠️ Tools |
+|----------|----------|
+| ✅ Complete | Cadence Virtuoso |
+| 📝 Schematic | Xschem, QUCS-S |
+| 📊 Simulation | Ngspice, Xyce |
+| 🧱 Layout | Magic, KLayout |
+| 🌐 EM Simulation | OpenEMS |
+| 📦 PDK | Skywater SKY130, IHP SG13G2, Cadence GPDK45 |
+
+---
+
+### 🚀 Current Projects
+
+- 📡 **3 GHz LNA** using **IHP SG13G2 PDK**
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Instagram: [instagram.com/mtfirmansyah_](https://instagram.com/mtfirmansyah_)
+- 📧 Email: mtfirmansyah15@gmail.com
+- 🧠 LinkedIn: [linkedin.com/in/muchammadtegarfirmansyah](https://linkedin.com/in/muchammadtegarfirmansyah)
+
+---
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jf2i8rjpddu93xh79wsx4w1in&redirect=true">
