@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/a6pzK009rlCak/giphy.gif">
+  <img src="https://media3.giphy.com/media/9cZQnwdzUXTDG/giphy.gif">
 </div>
 
 <h1 align="center">Hi, I'm Tegar 👋</h1>
