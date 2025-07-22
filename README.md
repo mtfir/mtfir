@@ -8,30 +8,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Undergraduate student in Electrical Engineering with concentration in **RF and Telecommunications**
+- 🎓 Undergraduate student in Electrical Engineering with concentration in **RF and Microwave**
 - 🧠 Currently exploring:
   - 📡 RF, Microwave and mm-Wave Circuits  
   - 🔓 Open-Source Analog/RF IC Design Flow
-
----
-
-### 🔬 Tech Stack & Tools  
-Here are some IC design tools that I use:
-
-| 🧭 Domain | 🛠️ Tools |
-|----------|----------|
-| ✅ Complete | Cadence Virtuoso |
-| 📝 Schematic | Xschem, QUCS-S |
-| 📊 Simulation | Ngspice, Xyce |
-| 🧱 Layout | Magic, KLayout |
-| 🌐 EM Simulation | OpenEMS |
-| 📦 PDK | Skywater SKY130, IHP SG13G2, Cadence GPDK45 |
-
----
-
-### 🚀 Current Projects
-
-- 📡 **3 GHz LNA** using **IHP SG13G2 PDK**
 
 ---
 
