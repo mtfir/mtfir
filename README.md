@@ -15,14 +15,6 @@
 
 ---
 
-### 📫 Let's Connect
-
-- 🌐 Instagram: [instagram.com/mtfirmansyah_](https://instagram.com/mtfirmansyah_)
-- 📧 Email: mtfirmansyah15@gmail.com
-- 🧠 LinkedIn: [linkedin.com/in/muchammadtegarfirmansyah](https://linkedin.com/in/muchammadtegarfirmansyah)
-
----
-
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c3ubcn9gn05azwaab7ypxwxe6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
