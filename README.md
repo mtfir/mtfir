@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Tegar 👋</h1>
+<h1 align="center">Welcome to My GitHub Profile👋</h1>
 
 <p align="center">
-  <em>🔧 Analog/RF IC Designer • 💡 Open-Source Silicon Enthusiast</em>
+  <em>🔧 Analog/RF IC • FPGA • Open Source</em>
 </p>
 
 ---
@@ -10,8 +10,9 @@
 
 - 🎓 Undergraduate student in Electrical Engineering with concentration in **RF and Microwave**
 - 🧠 Currently exploring:
-  - 📡 RF, Microwave and mm-Wave Circuits  
-  - 🔓 Open-Source Analog/RF IC Design Flow
+  - 📡 RF and Microwave Circuits  
+  - 🔓 Analog/RF IC Design
+  - 💻 FPGA Programming
 
 ---
 
